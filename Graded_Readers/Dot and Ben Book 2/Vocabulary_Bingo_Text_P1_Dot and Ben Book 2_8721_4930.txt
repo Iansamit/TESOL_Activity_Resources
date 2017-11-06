@@ -1,0 +1,7 @@
+English Builder Vocabulary Bingo Version: 1.0
+game_id: (VB_P1_bc_d_B_2_8721_4930)
+game_ind: (0)
+bingArray: (and,back,bed,Ben,but,can,cat,Dot,duck,has,in,in bed,is,it,not,of,on,sack,sad,sick,sit,the,what,hut)
+
+
+

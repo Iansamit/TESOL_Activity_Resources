@@ -1,0 +1,5 @@
+English Builder Vocabulary Bingo Version: 1.0
+game_id: (VB_P1_bc_d_B_3_2997_7866)
+game_ind: (0)
+bingArray: (a,and,bad,bag,big,Ben,Bud,bus,can,cat,dog,Dot,duck,fog,gas,gem,guess,Gus,has,hot,hut,in,is,it,jam,Jack,jog,not,on,sack,sit,what)
+

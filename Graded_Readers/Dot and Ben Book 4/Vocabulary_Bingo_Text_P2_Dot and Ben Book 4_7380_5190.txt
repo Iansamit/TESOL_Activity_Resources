@@ -1,0 +1,4 @@
+English Builder Vocabulary Bingo Version: 1.0
+game_id: (VB_P2_bc_d_B_4_7380_5190)
+bingArray: (and,bake,big,but,cake,can,cane,cat,dog,duck,feet,guide,hide,his,home,into,
+keep,kick,lake,like,magic,man,meet,mice,name,nice,pie,sack,sage,see,take,tap)

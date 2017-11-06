@@ -1,0 +1,4 @@
+English Builder Vocabulary Bingo Version: 1.0
+game_id: (VB_P2_bc_d_B_5_6847_3630)
+game_ind: (0)
+bingArray: (are, bake, bang, bank, can, cane, cannot, dance, face, for, go, gong, have, her, I, in, lake, like, mad, magic, make, my, need, no, of, or, sing, sink, take, up, week, your)
